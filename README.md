@@ -1,13 +1,15 @@
 # Data Science Resources And Training
 This repository acts as a central hub for access to Data Science tutorials, developed primarily for University of Edinburgh PhD students, and developed by Edinburgh staff, but available to anyone that might find things useful.
 
-If you're unfamiliar with Github, start with this tutorial to get yourself clued in a bit: [Intro to git and version control](https://ourcodingclub.github.io/tutorials/git/). In short, Github is used for people to collaboratively code - it's not always the most intuitive to use but if you can be brave it pays to get familiar. Above you'll see file/folder names (left column), the next column over is comments from whoever last edited that file/folder and then next when that edit was made (this info is useful when doing group work, less useful in the context we're using this so just ignore it)
+If you're unfamiliar with Github, start with [this tutorial](https://ourcodingclub.github.io/tutorials/git/) to get yourself clued in a bit. In short, Github is used for people to collaboratively code - it's not always the most intuitive to use but if you can be brave it pays to get familiar. Above you'll see file/folder names (left column), the next column over is comments from whoever last edited that file/folder saying what they dud and then next when that edit was made (this info is useful when doing group work, less useful in the context we're using this so just ignore it).
 
 This Git Hub is designed to update and evolve as we go, so things will change but as stands it contains downloadable tutorials on:
 
-- Linear Models (4 tutorials starting at the basics and ramping up. Would recommend you browse the 'Why is Stats so Confusing' lecture under 'extra resources' to reassure yourself before starting)
+- Linear Models (4 tutorials starting at the basics and ramping up. Would recommend you browse the 'Why is Stats so Confusing' lecture under 'extra resources' to reassure yourself before starting). See the 'ReadMe' section under each for instructions.
 - ggplot (to help you in making pretty plots)
 - Spatial Data (for working with raster and vector data)
+
+You can either just download the files and work locally from your computer, but if you want to stay hooked into github, you'll first need to fork the repository (see the little 'fork' button next to 'watch' in the upper right), then you can clone it and make edits as you will. If that was all gobbledygook refer back to ^ that tutorial above.
 
 Below we'll include links to a bunch of other resources that you might find useful. You can also see the extra resources folder up above, this is a bit of a grab bag at the moment but will be tidied! A lot of the following leans on the Coding Club course that's walked through [here](https://ourcodingclub.github.io/course), you could also just work through that if it works for you.
 
