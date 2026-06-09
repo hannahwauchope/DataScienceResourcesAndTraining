@@ -5,7 +5,7 @@ If you're unfamiliar with Github, start with this tutorial to get yourself clued
 
 This Git Hub is designed to update and evolve as we go, so things will change but as stands it contains downloadable tutorials on:
 
-- Linear Models (4 tutorials starting at the basics and ramping up)
+- Linear Models (4 tutorials starting at the basics and ramping up. Would recommend you browse the 'Why is Stats so Confusing' lecture under 'extra resources' to reassure yourself before starting)
 - ggplot (to help you in making pretty plots)
 - Spatial Data (for working with raster and vector data)
 
@@ -13,7 +13,7 @@ Below we'll include links to a bunch of other resources that you might find usef
 
 We're all ears to new suggestions! If you find a good tutorial, please send it on so we can start building up a bigger base of resources. 
 
-For if you're totally new to R:
+For if you're totally new to R/Stats:
 - Coding Club Tutorials
     - [Basic data manipulation in R](https://ourcodingclub.github.io/tutorials/data-manip-intro/)
     - [Efficient data manipulation in R](https://ourcodingclub.github.io/tutorials/data-manip-efficient/)
