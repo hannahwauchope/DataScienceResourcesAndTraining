@@ -1,3 +1,0 @@
-# Introduction to Species Distribution Models
-
-This is a class of models that's used to correlate species occurrence points with environmental data, and then predict into new environments. The PDF in this folder is a booklet that walks you through running a very simple SDM (code and folders explained in the booklet). This is NOT exhaustive,  you'd need to do a lot more to get an SDM publication ready, but this gets you familiar with the concepts and basics. Think very carefully about the assumptions associated with your SDM before trusting it
