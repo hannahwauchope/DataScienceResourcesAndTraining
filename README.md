@@ -1,12 +1,12 @@
-## Data Science Resources And Training
+# Data Science Resources And Training
 
-# Welcome!
-This repository acts as a central hub for access to Data Science tutorials, developed primarily for University of Edinburgh PhD students, and developed by Edinburgh staff, but available to anyone that might find things useful.
+## Welcome!
+This repository acts as a central hub for access to Data Science tutorials, developed primarily for University of Edinburgh PhD students, and developed by Edinburgh staff, but available to anyone that might find things useful. The content leans environmental science/ecology heavy at the moment, we hope to expand to include more and are always open to suggestions (put them in the 'issues' tab at the top of the page).
 
-# How to navigate this webpage
+## How to navigate this webpage
 If you're unfamiliar with Github, start with [this tutorial](https://ourcodingclub.github.io/tutorials/git/) to get yourself clued in a bit. In short, Github is used for people to collaboratively code - it's not always the most intuitive to use but if you can be brave it pays to get familiar. Above you'll see file/folder names (left column), the next column over is comments from whoever last edited that file/folder saying what they dud and then next when that edit was made (this info is useful when doing group work, less useful in the context we're using this so just ignore it).
 
-# What resources you'll find here
+## What resources you'll find here
 At the moment you can find some resources for learning linear modelling and a few other bits _in R_. We'd love to expand to include Python tutorials here too, please get in touch if you have any to recommend.
 
 - Linear Models (4 tutorials starting at the basics and ramping up. Would recommend you browse the 'Why is Stats so Confusing' lecture under 'extra resources' to reassure yourself before starting). See the 'ReadMe' section under each for instructions.
@@ -15,7 +15,7 @@ At the moment you can find some resources for learning linear modelling and a fe
 
 You can either just download the files and work locally from your computer, but if you want to stay hooked into github, you'll first need to fork the repository (see the little 'fork' button next to 'watch' in the upper right), then you can clone it and make edits as you will. If that was all gobbledygook refer back to ^ that tutorial above.
 
-# Links to other resources
+## Links to other resources
 Below we'll include links to a bunch of other resources that you might find useful. You can also see the extra resources folder up above, this is a bit of a grab bag at the moment but will be tidied! A lot of the following leans on the Coding Club course that's walked through [here](https://ourcodingclub.github.io/course), you could also just work through that if it works for you.
 
 We're all ears to new suggestions! If you find a good tutorial, please send it on so we can start building up a bigger base of resources. 
@@ -40,7 +40,7 @@ For Data Visualization
     - [R for Data Science Chapter 3 Data visualisation](http://r4ds.had.co.nz/data-visualisation.html])
     - [R for Data Science Chapter 28 Graphics for communication](http://r4ds.had.co.nz/graphics-for-communication.html)
 
-# How do I know which resources I need?
+## How do I know which resources I need?
 Here's some things to think about to help you (note that the linked sources are not at all exhaustive and possibly not always that useful, but the goal is to just give you a place to start):
 - If you're asking a question about association (as one thing goes up, does another? Is there a difference between these groups?), you want linear models. These can be done in either a frequentist framework (as in the tutorials in this Github) or [Bayesian](https://ourcodingclub.github.io/tutorials/brms/).
 - If you're asking a question about causation (does one thing cause a change in another? Has a change in something impacted something else?), you want to look into [impact evaluation](https://scb-impact.org/what-is-impact-evaluation/) or causal inference methods (here is one of a thousand [intros](https://matheusfacure.github.io/python-causality-handbook/05-The-Unreasonable-Effectiveness-of-Linear-Regression.html). You may still use linear models in this kind of approach, just in a different way
