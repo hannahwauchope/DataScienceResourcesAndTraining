@@ -6,12 +6,14 @@ This repository acts as a central hub for access to Data Science tutorials, deve
 ## How to navigate this webpage
 If you're unfamiliar with Github, start with [this tutorial](https://ourcodingclub.github.io/tutorials/git/) to get yourself clued in a bit. In short, Github is used for people to collaboratively code - it's not always the most intuitive to use but if you can be brave it pays to get familiar. Above you'll see file/folder names (left column), the next column over is comments from whoever last edited that file/folder saying what they dud and then next when that edit was made (this info is useful when doing group work, less useful in the context we're using this so just ignore it).
 
+Files can be downloaded using the little arrow in the top right on pages. 
+
 ## What resources you'll find here
 At the moment you can find some resources for learning linear modelling and a few other bits _in R_. We'd love to expand to include Python tutorials here too, please get in touch if you have any to recommend.
 
-- [Linear Models](/LinearModels) (4 tutorials starting at the basics and ramping up. Would recommend you browse the 'Why is Stats so Confusing' lecture under 'extra resources' to reassure yourself before starting). See the 'ReadMe' section under each for instructions.
-- ggplot (to help you in making pretty plots)
-- Spatial Data (for working with raster and vector data)
+- [Linear Models](/LinearModels) (4 tutorials starting at the basics and ramping up. Would recommend you browse the 'Why is Stats so Confusing' lecture under '[ExtraResources](/ExtraResources)' to reassure yourself before starting). See the 'ReadMe' section under each for instructions.
+- [ggplot](/ggplot) (to help you in making pretty plots)
+- [Spatial Data](/SpatialData) (for working with raster and vector data)
 
 You can either just download the files and work locally from your computer, but if you want to stay hooked into github, you'll first need to fork the repository (see the little 'fork' button next to 'watch' in the upper right), then you can clone it and make edits as you will. If that was all gobbledygook refer back to ^ that tutorial above.
 
