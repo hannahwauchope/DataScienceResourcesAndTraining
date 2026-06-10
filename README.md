@@ -9,7 +9,7 @@ If you're unfamiliar with Github, start with [this tutorial](https://ourcodingcl
 ## What resources you'll find here
 At the moment you can find some resources for learning linear modelling and a few other bits _in R_. We'd love to expand to include Python tutorials here too, please get in touch if you have any to recommend.
 
-- Linear Models (4 tutorials starting at the basics and ramping up. Would recommend you browse the 'Why is Stats so Confusing' lecture under 'extra resources' to reassure yourself before starting). See the 'ReadMe' section under each for instructions.
+- [Linear Models](/LinearModels) (4 tutorials starting at the basics and ramping up. Would recommend you browse the 'Why is Stats so Confusing' lecture under 'extra resources' to reassure yourself before starting). See the 'ReadMe' section under each for instructions.
 - ggplot (to help you in making pretty plots)
 - Spatial Data (for working with raster and vector data)
 
